@@ -18,7 +18,7 @@ public class DemoTest {
 	@Test
 	public void sub()
 	{
-		System.out.println("SUB");
+		System.out.println("SUBB");
 		int a=5;
 		int b=3;
 		Assert.assertEquals(2, a-b);
